@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello
 
-<!--
-**S460s/S460s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programmer with hobby experience in web development primarily with React and ExpressJS. I also like dabbling with security, low-level programming and my newest intrest - lisp. Currently trying to wrap my head around Structure and Interpretation of Computer Programs (scip).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Very accurate stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S460s&hide=pug,css,html)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=S460s&show_icons=true&theme=radical)
+
+---
+
+If you want to contact me for whatever reason -> S460.dev@proton.me
