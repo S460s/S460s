@@ -10,4 +10,4 @@ I am a programmer with hobby experience in web development primarily with React 
 
 ---
 
-If you want to contact me for whatever reason -> S460.dev@proton.me
+If you want to contact me for whatever reason -> s460.contact@proton.me
