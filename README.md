@@ -9,5 +9,3 @@ I am a programmer with hobby experience in web development primarily with React 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=S460s&show_icons=true&theme=radical)
 
 ---
-
-If you want to contact me for whatever reason -> s460.contact@proton.me
